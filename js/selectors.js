@@ -7,13 +7,13 @@ function lastImageSelector(){
   return $('img:last')
 }
 function ninjaBabySelector(){
-  return $('')
+  return $('#')
 }
 
 function divSelector(){
-  return $('')
+  return $('div.pics')
 }
 
 function firstListItem(){
-  return
+  return $('ul #pic-lis:first-child')
 }
